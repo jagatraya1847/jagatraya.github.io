@@ -34,7 +34,7 @@ body {
     display: block;
     margin: auto;
     left: 25%;
-    top: 0%;
+    top: 30vh;
     transform: translate(0px, 200vh);
     animation: opening;
     animation-duration: 2s;
